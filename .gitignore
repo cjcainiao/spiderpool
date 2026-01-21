@@ -1,0 +1,15 @@
+# 前端忽略文件
+SpiderPool/.vscode/**
+SpiderPool/node_modules/**
+SpiderPool/dist/**
+SpiderPool/build/**
+SpiderPool/.env
+
+
+# 后端忽略文件
+SpiderPoolBackend/.vscode/**
+SpiderPoolBackend/.idea/**
+SpiderPoolBackend/target/**
+SpiderPoolBackend/src/test/**
+SpiderPoolBackend/src/main/resources/application-local.yml
+SpiderPoolBackend/src/main/resources/application-pro.yml
